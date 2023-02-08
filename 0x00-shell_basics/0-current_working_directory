@@ -1,2 +1,3 @@
-#!/bib/bash
+#!/bin/bash
 current_dir=$(pwd)
+echo "absolute path of working directory is: $current_dir"
