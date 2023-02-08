@@ -1,0 +1,2 @@
+#!/bin/bash
+ls -A --format=commas | sed 's/^\(.*\)$/\n;s/,[^,]*[.]\{1,2\}$/\n&/'
