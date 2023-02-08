@@ -1,0 +1,2 @@
+#!/bib/bash
+current_dir=$(pwd)
